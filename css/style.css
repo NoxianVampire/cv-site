@@ -1,0 +1,20 @@
+/*Tag styling*/
+body    {
+    background-color: #F5E8C7;
+}
+hr  {
+    border-color: #ECCCB2;
+    border-style: none;
+    border-top-style: dotted;
+    border-top-width: 5px;
+    width: 10%;
+}
+h1  {
+    color: #AC7088;
+}
+h3  {
+    color: #DEB6AB;
+}
+/*Class Styling*/
+
+/*ID Styling*/
