@@ -1,6 +1,6 @@
 /*Tag styling*/
 body    {
-    background-color: #F5E8C7;
+    background-color: #f5e8c7;
 }
 hr  {
     border-color: #ECCCB2;
@@ -14,6 +14,13 @@ h1  {
 }
 h3  {
     color: #DEB6AB;
+}
+
+footer {
+    text-align: center;
+    padding: 5px;
+    background-color: darkgrey;
+    color: black;
 }
 /*Class Styling*/
 
